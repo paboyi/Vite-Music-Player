@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Flutter - The Grey Room _ Clark Sims",
+        "artist": "Clark Sims",
+        "file": "music/Flutter - The Grey Room _ Clark Sims.mp3",
+        "cover": "images/default.png",
+        "color": "#c8b89a"
+    },
+    {
+        "title": "In The Morning - The Grey Room _ Clark Sims",
+        "artist": "Clark Sims",
+        "file": "music/In The Morning - The Grey Room _ Clark Sims.mp3",
+        "cover": "images/default.png",
+        "color": "#a8c5b5"
+    },
+    {
+        "title": "Minyo San Kyoku - Doug Maxwell_ Zac Zinger",
+        "artist": "Zac Zinger",
+        "file": "music/Minyo San Kyoku - Doug Maxwell_ Zac Zinger.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Oh Please - Telecasted",
+        "artist": "Telecasted",
+        "file": "music/Oh Please - Telecasted.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "On The Beach - Telecasted",
+        "artist": "Telecasted",
+        "file": "music/On The Beach - Telecasted.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Pastoral - Asher Fulero",
+        "artist": "Asher Fulero",
+        "file": "music/Pastoral - Asher Fulero.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Simple Sonata - Sir Cubworth",
+        "artist": "Sir Cubworth",
+        "file": "music/Simple Sonata - Sir Cubworth.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Soulicious - Dyalla",
+        "artist": "Dyalla",
+        "file": "music/Soulicious - Dyalla.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "T'as où les vaches_ - Dan Bodan",
+        "artist": "Dan Bodan",
+        "file": "music/T'as où les vaches_ - Dan Bodan.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Time to Spare - An Jone",
+        "artist": "An Jone",
+        "file": "music/Time to Spare - An Jone.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    },
+    {
+        "title": "Zydeco Piano Party (Jazz&Blues Bright) - Media Right Productions",
+        "artist": "Media Right Productions",
+        "file": "music/Zydeco Piano Party (Jazz&Blues Bright) - Media Right Productions.mp3",
+        "cover": "images/default.png",
+        "color": "#f3f3f3"
+    }
+]

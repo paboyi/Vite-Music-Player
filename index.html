@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vinyl Player</title>
+<link rel="stylesheet" href="/src/styles.css">
+</head>
+
+
+
+<body>
+<div id="app">
+    <img src="01.png" alt="headphone_no_bg" class="headphonePic"/>
+    <img src="01.png" alt="headphone_no_bg_2" class="headphonePic2"/>
+
+    <div class="header-title">
+        <h1>Vinyl Player</h1>
+    </div>
+
+    <div class="ambient-bg" id="ambientBg"></div>
+
+    <div class="player-wrapper">
+
+    <div class="cover-section">
+        <div class="cover-art" id="coverArt">
+            <img id="coverImg" src="" alt="cover" />
+        </div>
+        <div class="disk-wrap" id="diskWrap">
+            <div class="disk" id="disk">
+                <div class="disk-label">
+                    <span class="disk-title" id="diskTitle"></span>
+                    <span class="disk-artist" id="diskArtist"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="player-section">
+        <div class="track-info">
+            <h2 id="trackTitle">—</h2>
+            <p id="trackArtist">—</p>
+        </div>
+
+        <div class="progress-wrap">
+            <span id="currentTime">0:00</span>
+            <input type="range" id="progressBar" value="0" min="0" step="1">
+            <span id="duration">0:00</span>
+        </div>
+
+        <div class="controls">
+            <button id="prevBtn">&#9664;&#9664;</button>
+            <button id="shuffleBtn">⇄</button>
+            <button id="playBtn" class="play">&#9654;</button>
+            <button id="loopBtn">↻</button>
+            <button id="nextBtn">&#9654;&#9654;</button>
+        </div>
+
+        <div class="options">
+            <div class="volume-wrap">
+                <span>🔈</span>
+                <input type="range" id="volumeBar" min="0" max="1" step="0.01" value="0.75">
+                <span id="volumeLabel">75%</span>
+            </div>
+            <button id="speedBtn">2×</button>
+        </div>
+
+        <div class="playlist" id="playlist"></div>
+    </div>
+
+    </div>
+</div>
+
+<audio id="player"></audio>
+<script type="module" src="/src/main.js"></script>
+</body>
+</html>
